@@ -1,0 +1,29 @@
+1. Keyboard Split Battle
+
+Genre: Action/Arcade
+
+How to Play:
+Divide the keyboard between two players (Player 1 uses WASD for movement, and Player 2 uses arrow keys). create a simple arena-style game where players control characters trying to knock each other out of a platform.
+Add obstacles or power-ups for extra fun.
+
+Example: Sumo Showdown (players try to push each other out of a circle).
+
+
+2. Turn-Based Trivia
+
+Genre: Quiz/Trivia
+
+How to Play:
+Display questions on the screen with multiple-choice answers.
+Each player takes turns selecting an answer. Assign a score for correct answers, and keep track of the total.
+
+Variation: Customize the trivia categories based on shared interests (movies, history, etc.).
+
+
+3. Guess the order
+
+genre: Guessing game
+
+How to play: The system generates a random order of colours, and you have to guess the order. The system will tell you how many are in the correct spot, which ones ARE in the generated order but in the wrong place, and which are not in the generated order. You get seven guesses.
+
+Example: It's like wordle. but with colours.
